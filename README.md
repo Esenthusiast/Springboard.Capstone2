@@ -20,6 +20,17 @@ Second, salary and job listing data from the National Labor Board listing salari
 
 -- How have salaries, especially salaries across entry, middle and high level jobs, shifted over the last 5-10 years, especially when considered alongside national and regional GDP/ recession economic data?
 
+# Who Cares and Why?
+
+The economic market has been undergoing a variety of changes over the last 20 years. The recession did not change the overall market, but this recession is unique within economic forcasts and will teach us more about future economic shifts then past recessions- for job seekers, employers, and economists. 
+
+- Job seekers need ot understand that although this data is not purly predictive, as the market is still adjusting t othe raise in online marketplaces, change in automation, and shifting world market- it can help give a glimpse at what industries will recover faster and be a better long-term consideration through future economic turmoil.
+
+-- Employeers can understand better how market forces like the recession shift the demand and supply curve, requiring employeers to offer wage increases and other incentives in response to varying pressures. 
+
+-- Economists and social scientists can use trends identified in this data set to help consider alongside other data on overall social changes in our job market. 
+
+
 
   
 
