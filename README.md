@@ -3,9 +3,9 @@ Final Capstone Project for Springboard Data Scientist Career Track
 
 # Problem
 Recent history has shown a change in the job market, for many working professionals not only is the life-time career position gone, but careers are made of freelance and contract work, the share economy has already begun (and has promised to continue) to change how services are exchanged, and a prolonged recession with social-economic turmoil has changed how previous generations and raising generations think about the Job market. Therefore, with all this in mind I want to consider and investigate how the job market has changed. 
-How have the amount (pure number) and fraction of jobs including titles associates with different stages of employment shifted? That is entry level, mid levels and high level? I will consider that question by looking at job titles. For example:  V.P., Associate, Assistant, Manager, Assistant-Manager, Junior, Senior etc. 
-For job seekers, how have the search terms changed in response to this shift, are job seekers perhaps driving the change ( or responding to the change) in job title frequency and job types. Specifically, has the rate of freelance/ contract jobs changed vs. rate of search for freelance/contract jobs.
-Finally, how have salaries, especially salaries across entry, middle and high level jobs, shifted over the last 5-10 years, especially when considered alongside national and regional GDP/ recession economic data. 
+How have the amount (pure number) and fraction of jobs in different industries shifted? Especially industries with widly different ranges of salaries and available employment? Such as traditional desk jobs (office admin, and management) compared to technical or industrial jobs.  
+
+Finally, how have salaries, especially the most extreme salaries shifted over the last 5-10 years, especially when considered alongside national and regional GDP/ recession economic data. 
 
 # The Data
 For my data I am using two data sources: 
